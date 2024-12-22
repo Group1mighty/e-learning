@@ -112,7 +112,7 @@ header nav ul li .dropdown-menu li a {
     font-weight: normal;
     text-decoration: none;
     display: block;
-    padding: 8px;
+    padding: 7px;
     transition: background-color 0.3s;
 }
 

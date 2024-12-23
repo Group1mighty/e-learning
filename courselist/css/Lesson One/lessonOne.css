@@ -192,7 +192,7 @@ h3 {
 
 .question {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  border: 1px solid rgb(26, 99, 195);
+  border: 1px solid rgb(26, 98, 195);
   border-radius: 5px;
   padding: 15px;
   font-size: 1.1rem;
@@ -215,7 +215,7 @@ h3 {
   height: 50px;
   border-radius: 10px;
   border: none;
-  background-color: rgb(32, 21, 255);
+  background-color: rgb(32, 22, 255);
   color: white;
   cursor: pointer;
 }
@@ -229,7 +229,7 @@ input[type="radio"] {
 .choice label {
   display: flex;
   align-items: center;
-  gap: 10px; /* Add spacing between radio button and text */
+  gap: 10px; /* Add spacing between radio button , text */
 }
 
 .next-previos-container {
